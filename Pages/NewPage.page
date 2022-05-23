@@ -1,0 +1,17 @@
+{
+	"Caption": "NewPage",
+	"Controls": [
+		{
+			"StartColumn": {
+				"_Name": "StartColumn"
+			},
+			"EndColumn": {
+				"_Name": "EndColumn"
+			},
+			"_Type": "Control.Type.FlexibleColumnLayout",
+			"_Name": "FlexibleColumnLayout"
+		}
+	],
+	"_Name": "NewPage",
+	"_Type": "Page"
+}

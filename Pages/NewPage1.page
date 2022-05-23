@@ -1,0 +1,15 @@
+{
+	"Caption": "NewPage1",
+	"Controls": [
+		{
+			"Module": "",
+			"Control": "",
+			"Class": "",
+			"ExtensionProperties": {},
+			"_Name": "NewPage1",
+			"_Type": "Control.Type.Extension"
+		}
+	],
+	"_Name": "NewPage1",
+	"_Type": "Page"
+}
